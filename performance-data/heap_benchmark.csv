@@ -1,0 +1,2 @@
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10000,5,random,9.30384,235360.2,124182.0,967448.4

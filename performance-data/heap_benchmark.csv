@@ -1,2 +1,16 @@
 n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
 10000,5,random,9.30384,235360.2,124182.0,967448.4
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10000,5,random,3.63394,235360.2,124182.0,967448.4
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10000,5,random,4.42168,235360.2,124182.0,967448.4
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10000,5,random,3.18662,235360.2,124182.0,967448.4
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10,5,random,0.15492,38.4,26.6,183.2
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+100,5,random,0.37138,1029.6,582.8,4390.4
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+1000,5,random,0.99094,16843.6,9069.6,69965.6
+n,runs,dist,avgTimeMs,avgComparisons,avgSwaps,avgArrayAccesses
+10000,5,random,2.82568,235360.2,124182.0,967448.4
